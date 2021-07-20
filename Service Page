@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>services</title>
+</head>
+<body id="bg">
+	<h1>1.PERSONAL INTERNET BANKING:</h1>
+	<P>->Payments/Transfer.<br>-> Credit Card (VISA).<br>-> IMPS Payments.<br>-> NRI eZ Trade Funds Transfer.<br>-> E –Deposits.<br>-> E-TDR/e-STDR under Income Tax Savings Scheme.<br>-> E-Annuity Deposit Scheme.</P>
+	<h1>2.MERCHANT ACQUIRE BUISNESS:</h1>
+	<p>-> Linking of PAN with Aadhaar.<br>-> Registration for Doorstep Banking.<br>-> Fair Lending Practice Code.<br>->Purchase Insurance Policy.<br>-> BANK MEGA General Insurance Document Download.<br>-> BANK MEGA FasTag.<BR>-> NRI Services.
+	<h1>3.ONLINE TAX/PAYMENT/RECIEPT/CHALLAN PRINTING</h1>
+	<p>-> Generate Receipt for taxes paid through ATM cum Debit Cards.<br>-> Payment of most taxes needs to be originated from the government website, while some taxes can be paid directly through Online BANK MEGA.</p>
+	<style>
+		p{
+		  text-align: center;
+		  font-family:Cursive;
+		  font-size: 20px;
+		  color: #fff ;
+
+		 }
+          #bg{
+			background:url("service.jpg");
+		    height: 100vh;
+			-webkit-background-size:cover;
+			background-size:cover;
+			background-position: center center;
+			position: relative;
+		}
+		h1{
+			color: #00b300;
+			text-decoration: underline;
+		}
+
+		</style>
+
+</body>
+</html>
