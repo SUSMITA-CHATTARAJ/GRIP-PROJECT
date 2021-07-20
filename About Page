@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT</title>
+</head>
+<body id ="bg">
+	<h1>Look ahead with us:</h1>
+	<p>BANK MEGA, is a high quality, customer centric and service driven Bank. Since inception in 2004, BANK MEGA has grown into a ‘Full Service Commercial Bank’ providing a complete range of products, services and technology driven digital offerings, catering to corporate, MSME & retail customers.BANK MEGA operates its Investment banking, Merchant banking & Brokerage businesses through MEGA SECURITIES and its Mutual Fund business through MEGA Asset Management (India) Limited, both wholly owned subsidiaries of the Bank. Headquartered in Mumbai, it has a pan-India presence across all 28 states and 9 Union Territories in India.</p>
+    <h2>Learn how we’re supporting customers, employees and communities <br>in the pandemic and economic recovery:</h2>
+	<p>BANK MEGA provides update on commitment to addressing economic inequities<br>This Bank created a new role teaching diverse youth about building wealth<br>BANK MEGA Altitude Connect reunites people with the faces and places they love<br>BANK MEGA launches industry-leading video banking options for customers.</p>
+	<h3>For more information, please visit the Bank’s website at:</h3>
+	<p>http://www.bankmega.in/</p>
+    <style>
+		p{
+		  text-align: center;
+		  text-decoration: none;
+		  font-family:Cursive;
+		  font-size: 20px;
+		  }
+          #bg{
+			background:url("about.png");
+		    height: 100vh;
+			-webkit-background-size:cover;
+			background-size:cover;
+			background-position: center center;
+			position: relative;
+		}
+		h1{
+			color: #009999;
+			text-decoration: underline;
+		}
+		h2{
+			color: #009999;
+			text-decoration: underline;
+		}
+		h3{
+			text-align: center;
+			color: #009999;
+			text-decoration: underline;
+		}
+
+
+		</style>
+</body>
